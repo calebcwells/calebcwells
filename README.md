@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there! I'm Caleb 👋
 
-## Caleb was here
+I created this profile README for a YouTube video, https://youtu.be/wnebpBGuAaI. On my YouTube channel I cover Azure, Blazor, Git and more. Take a look and let me know what you think, https://www.youtube.com/channel/UC3VKPfYlzHgDzPy24snBimw.
 
 <!--
 **calebcwells/calebcwells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
